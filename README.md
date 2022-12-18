@@ -11,3 +11,6 @@ Mastodon, taking all available width, assuming 3 columns.
 
 #### Resize-o-Don
 Resizable columns in mastodon
+
+#### Mastodon Cat Ears
+Add cat ears to user avatars
