@@ -8,3 +8,6 @@ Little userscript to change the text of the publish-button in Mastodon web-ui.
 
 #### Fluid Mastodon
 Mastodon, taking all available width, assuming 3 columns.
+
+#### Resize-o-Don
+Resizable columns in mastodon
