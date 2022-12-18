@@ -3,12 +3,7 @@
 // @description Mastodon, taking all available width, assuming 3 columns (mastodon.technology, mastodon.social and w3c.social only; fork for other domains)
 // @namespace   https://tripu.info/
 // @version     0.3.2
-// @include     http://mastodon.technology/*
-// @include     https://mastodon.technology/*
-// @include     http://mastodon.social/*
-// @include     https://mastodon.social/*
-// @include     http://w3c.social/*
-// @include     https://w3c.social/*
+// @include     http://mstdn.hw2k.com/*
 // @license     MIT
 // @supportURL  https://tripu.info/
 // @author      tripu
