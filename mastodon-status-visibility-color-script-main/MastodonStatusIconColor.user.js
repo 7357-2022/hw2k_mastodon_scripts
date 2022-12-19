@@ -3,7 +3,7 @@
 // @version      2.2
 // @description  Customize status visibility icon color and direct messages background color
 // @author       Lapineige
-// @match        *://mamot.fr/* // change that to adjust for your instance URL...
+// @match        *://mstdn.hw2k.com/*     
 
 // @grant        GM_addStyle
 // ==/UserScript==
