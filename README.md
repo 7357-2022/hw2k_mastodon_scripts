@@ -35,3 +35,8 @@ Source: https://framagit.org/Lapineige/mastodon-status-visibility-color-script/
 - Ths script makes Mastodon a bit nicer.
 
 Source: https://openuserjs.org/scripts/khzimmer/MastodonHelper/source
+
+### Mastodon Monotext
+- Add limited markdown-like formatting capabilities to mastodon using unicode
+
+Source: chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=d5fa0d14-f323-4c6a-997c-8c20594bc38c+editor
