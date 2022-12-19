@@ -1,18 +1,26 @@
 # Mastodon Scripts (forked for the HW2K website)
 
-#### Mastodon-Publish-Button
+### Mastodon-Publish-Button
 - Little userscript to change the text of the publish-button in Mastodon web-ui.
 
-####  Stylus CSS script for Mastodon browser display
+Source: https://github.com/phpmacher/mastodon-publish-button
+
+###  Stylus CSS script for Mastodon browser display
 - 3 column layout. Tighter text display.
 
-#### Fluid Mastodon
+Source: https://codeberg.org/jayrope/Mastodon.Client_CSS_for_Stylus_or_Greasemonkey
+
+### Fluid Mastodon
 - Mastodon, taking all available width, assuming 3 columns.
 
-#### Resize-o-Don
+Source: https://greasyfork.org/en/scripts/30240-fluid-mastodon/code
+
+### Resize-o-Don
 - Resizable columns in mastodon
 
-#### Mastodon status visibility color script
+Source: https://greasyfork.org/en/scripts/454111-resize-o-don/code
+
+### Mastodon status visibility color script
 
 - Fix Mastodon4 UI and bring back blue theme
 A script to fix new Mastodon UI issues (mobile lateral bar, writing frame marging…) and/or switch back to the previous blue theme (or any color you like)
@@ -21,5 +29,9 @@ A script to fix new Mastodon UI issues (mobile lateral bar, writing frame margin
 A GreaseMonkey¹ script that allows you to adjust your Mastodon status visibility icon color (or background color).
 For instance the Direct Messages icon color and background color (by default restored to the different look that was used before Mastodon 3.3.3).
 
-#### MastodonHelper
+Source: https://framagit.org/Lapineige/mastodon-status-visibility-color-script/
+
+### MastodonHelper
 - Ths script makes Mastodon a bit nicer.
+
+Source: https://openuserjs.org/scripts/khzimmer/MastodonHelper/source
