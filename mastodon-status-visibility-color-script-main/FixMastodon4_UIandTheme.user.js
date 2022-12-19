@@ -2,7 +2,7 @@
 // @name         Fix Mastodon 4 web UI & Revert to blue theme
 // @version      1.1
 // @author       Lapineige
-// @match        *://mamot.fr/*     // change it to match your instance URL
+// @match        *://mstdn.hw2k.com/*     
 
 // @grant        GM_addStyle
 // ==/UserScript==
