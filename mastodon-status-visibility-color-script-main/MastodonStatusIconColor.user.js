@@ -29,4 +29,3 @@ addGlobalStyle('not(.privacy-dropdown__option__icon) > .fa-unlock {color:#606984
 addGlobalStyle('not(.privacy-dropdown__option__icon) > .fa-globe {color:#6069B4}'); // couleur de l'icone globe // globe icon color
 
 addGlobalStyle ('abbr[title^="Édité"] {color: gold;     text-decoration: none;}') // mettre en valeur les pouets édités.en colorant l'astérisque (only for French version right now)
-}
