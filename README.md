@@ -26,7 +26,7 @@ Source: https://greasyfork.org/en/scripts/454111-resize-o-don/code
 A script to fix new Mastodon UI issues (mobile lateral bar, writing frame marging…) and/or switch back to the previous blue theme (or any color you like)
 
 - Mastodon status visibility color script
-A GreaseMonkey¹ script that allows you to adjust your Mastodon status visibility icon color (or background color).
+A GreaseMonkey script that allows you to adjust your Mastodon status visibility icon color (or background color).
 For instance the Direct Messages icon color and background color (by default restored to the different look that was used before Mastodon 3.3.3).
 
 Source: https://framagit.org/Lapineige/mastodon-status-visibility-color-script/
