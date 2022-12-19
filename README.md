@@ -40,3 +40,7 @@ Source: https://openuserjs.org/scripts/khzimmer/MastodonHelper/source
 - Add limited markdown-like formatting capabilities to mastodon using unicode
 
 Source: https://openuserjs.org/scripts/mightypork/Mastodon_Monotext/source
+
+### Mastodon full width columns
+
+Source: https://gist.github.com/rashfael/b0fa9c7ffff1cf44bc7639269440a026
