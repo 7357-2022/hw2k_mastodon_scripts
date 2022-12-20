@@ -44,3 +44,8 @@ Source: https://openuserjs.org/scripts/mightypork/Mastodon_Monotext/source
 ### Mastodon full width columns
 
 Source: https://gist.github.com/rashfael/b0fa9c7ffff1cf44bc7639269440a026
+
+### Secondary Toot Button
+- Generates a secondary toot button that allows unlisted toots in one shot without displaying the disclosure range dialog.
+
+Source: https://greasyfork.org/de/scripts/371734-secondary-toot-button
